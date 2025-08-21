@@ -80,6 +80,8 @@ The app follows a survey-like format: users answer a series of questions and rec
 ## **Roadmap**
 The model selected, the MLP, is used in a webapp for a user-friendly mean. The Webapp is built using Reflex. [Reflex](https://reflex.dev/docs/getting-started/introduction/).  is a Python framework that allows us to build both the front end and back end in Python. Unlike Streamlit, Reflex enables deeper customization through CSS and JavaScript-level configurations. Overall, the webapp is composed of 4 pages: the home page, the about page, the contact page and the assessment page. 
 
+![Demo Screenshot](https://example.com/screenshot.png)
+
 ## **Contribution**
 *We should decide if we invite and/or accept contributions to this project (leave it open source).*
 
