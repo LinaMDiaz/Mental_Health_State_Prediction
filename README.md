@@ -75,11 +75,14 @@ To re-use this project, kindly refer to the following procedure:
       pip install -r requirements.txt
       ```
 ## **Utilization**
-*This section will be used to indicate how to use the model/web app: the input to enter in the web app or the file to upload. We can also redirect the reader to the Demo video that we'll make.*
+The app follows a survey-like format: users answer a series of questions and receive a prediction of their mental health status based on their responses (see the [Demo Video](https://dstisas-my.sharepoint.com/:v:/g/personal/lina-marcela_diaz-bejarano_edu_dsti_institute/EbUOQuXJ13ZFor3UEmgxqpsBGFhY_CRZIAXAez_0uByI7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WW1a8U)) These responses are stored anonymously in an SQLite database, which can be leveraged for future model retraining. 
+
 ## **Roadmap**
-The model selected, the MLP, is used in a webapp for a user-friendly mean. The Webapp is built using Reflex. [Reflex](https://reflex.dev/docs/getting-started/introduction/).  is a Python framework that allows us to build both the front end and back end in Python. Unlike Streamlit, Reflex enables deeper customization through CSS and JavaScript-level configurations. Overall, the webapp is composed of 4 pages: the home page, the about page, the contact page and the assessment page. The app follows a survey-like format: users answer a series of questions and receive a prediction of their mental health status based on their responses (see the [Reflex](https://dstisas-my.sharepoint.com/:v:/g/personal/lina-marcela_diaz-bejarano_edu_dsti_institute/EbUOQuXJ13ZFor3UEmgxqpsBGFhY_CRZIAXAez_0uByI7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WW1a8U)) These responses are stored anonymously in an SQLite database, which can be leveraged for future model retraining. 
+The model selected, the MLP, is used in a webapp for a user-friendly mean. The Webapp is built using Reflex. [Reflex](https://reflex.dev/docs/getting-started/introduction/).  is a Python framework that allows us to build both the front end and back end in Python. Unlike Streamlit, Reflex enables deeper customization through CSS and JavaScript-level configurations. Overall, the webapp is composed of 4 pages: the home page, the about page, the contact page and the assessment page. 
+
 ## **Contribution**
 *We should decide if we invite and/or accept contributions to this project (leave it open source).*
+
 ## **License**
 Distributed under the MIT License. See `MIT LICENSE` for more information.
 ## **Authors**
